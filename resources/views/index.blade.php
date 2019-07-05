@@ -233,7 +233,7 @@
 								<a href="portfolio-single-wide-slider.html">
 									<span class="thumb-info thumb-info-no-borders thumb-info-lighten thumb-info-bottom-info thumb-info-bottom-info-dark thumb-info-bottom-info-show-more thumb-info-no-zoom border-radius-0">
 										<span class="thumb-info-wrapper">
-											<img src="img/homeAP.jpg" class="img-fluid" alt="">
+											<img src="img/homeAp.jpg" class="img-fluid" alt="">
 											<span class="thumb-info-title bg-transparent p-4">
 												<span class="thumb-info-inner line-height-1 text-4 font-weight-bold">HOME APPLIANCES</span>
 												<span class="thumb-info-type opacity-6">Improve your life quality</span>
