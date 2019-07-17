@@ -11,6 +11,15 @@
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+Route::get('/','PublicController@index')->name('index');
+
+Route::post('/language','LanguageController@index');
+
+Route::post('/language/',array(
+
+    'as'=>'language',
+    'uses'=>'LanguageController@index'
+));
+
+//Route::get('/contact', 'ContactController@show');
+Route::post('/contact',  'ContactController@mailToAdmin');
